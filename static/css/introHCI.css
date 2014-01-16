@@ -41,6 +41,12 @@ p {
 #project1 {
     font-variant: small-caps;
 }
+#project2 {
+    font-variant: small-caps;
+}
+#project3 {
+    font-variant: small-caps;
+}
 .project {
     margin-left: 20px;
     background-color: #2AE5C6;
